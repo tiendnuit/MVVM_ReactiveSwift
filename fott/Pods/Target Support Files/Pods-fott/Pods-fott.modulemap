@@ -1,0 +1,6 @@
+framework module Pods_fott {
+  umbrella header "Pods-fott-umbrella.h"
+
+  export *
+  module * { export * }
+}
